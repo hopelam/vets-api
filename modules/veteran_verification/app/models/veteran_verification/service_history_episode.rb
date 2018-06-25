@@ -1,5 +1,5 @@
 # frozen_string_literal: true
-require "active_support/core_ext/digest/uuid"
+require 'active_support/core_ext/digest/uuid'
 
 module VeteranVerification
   class ServiceHistoryEpisode
